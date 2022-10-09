@@ -1,1 +1,3 @@
 In this I applied Logistic Regression over PIMA Indian Diabetes dataset using sklearn modules.  The Features Engineering steps involved normalisation, analysing Pearson’s Correlation matrix, and doing Multivariate analysis using Pair Plot. Trained Logistic Regression model and various scores like accuracy, roc_auc _score, precision, recall and F1 score at various stages. Finally did Hyperparameter Tuning using Grid-Search CV and increased accuracy by 5%. Worked on this project for Kaggle Competition.
+
+In an another I carried forward what I learned in Logistic Regression and applied OnevsRest classifier that is using Logistic Regression on a multi-class classification problem
